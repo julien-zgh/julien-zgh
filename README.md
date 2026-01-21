@@ -68,7 +68,7 @@
 
 <div align="center">
   
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=julien-zgh&bg_color=0d1117&color=c9d1d9&line=da78ff&point=da78ff&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=julien-zgh&bg_color=0d1117&color=7CFC98&line=2ECC71&point=2ECC71&area=true&hide_border=true)
 
 
 </div>
