@@ -89,5 +89,5 @@
 ---
 
 <div style="display: flex; justify-content: center; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=julien-zgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julien-zgh&locale=en&theme=dracula" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=julien-zgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julien-zgh&locale=en&theme=dracula" height="150" alt="stats graph"  />
 </div>
