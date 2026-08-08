@@ -1,93 +1,127 @@
 <h1 align="center">👋 Hey, I'm Julien Zghendi</h1>
 
-###
+<p align="center">
+  <strong>Full-Stack Developer · Security Researcher · Bug Bounty Hunter</strong>
+</p>
 
-<br clear="both">
+<p align="center">
+  Building secure, scalable web applications while researching real-world vulnerabilities across modern web infrastructure.
+</p>
 
-<h4 align="center">Full-stack developer and cybersecurity enthusiast shaping secure, high-impact web experiences.</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/julien-zghendi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/julien-zghendi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/builtbyjulien_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://github.com/julien-zgh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://tryhackme.com/p/JZBOSS" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="tryhackme logo"  />
+  <a href="https://tryhackme.com/p/JZBOSS">
+    <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="mailto:julien.zghendi@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="https://www.instagram.com/builtbyjulien_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+  <a href="mailto:julien.zghendi@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
-</div>
+## 🛡️ Security Research
 
-###
+I am particularly interested in **web application security, vulnerability research, bug bounty hunting, and responsible disclosure**.
 
-<!-- <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=julien-zgh&theme=dracula"
-    height="150"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=julien-zgh&theme=dracula"
-    height="150"
-    alt="GitHub Trophies"
-  />
-</div> -->
+### Areas of Focus
 
-##  GitHub Stats
+- 🔎 Web Application Security
+- 🐞 Vulnerability Research & Bug Bounty Hunting
+- 🔐 Authentication & Authorization Testing
+- 🧩 IDOR / Broken Access Control
+- 🌐 API Security
+- 💉 Injection Vulnerabilities
+- 🔄 SSRF & Server-Side Vulnerabilities
+- 🚨 Security Misconfigurations
+- 🕵️ OSINT & Reconnaissance
+- ⚔️ Red Teaming Fundamentals
+- 🧪 Manual & Automated Security Testing
+- 📋 Responsible Vulnerability Disclosure
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=julien-zgh&bg_color=0d1117&color=2ECC71&line=2ECC71&point=2ECC71&area=true&hide_border=true)
+### Security Toolkit
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/ffuf-000000?style=flat-square&logo=linux&logoColor=white" alt="ffuf" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/SQLmap-111111?style=flat-square&logo=databricks&logoColor=white" alt="SQLmap" />
+  <img src="https://img.shields.io/badge/Hydra-111111?style=flat-square&logo=linux&logoColor=white" alt="Hydra" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
 
+---
+
+## 🏆 Hall of Fame & Security Recognition
+
+My security research has resulted in recognition from organizations through their responsible disclosure and vulnerability recognition programs.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Bureau%20of%20Land%20Management-Hall%20of%20Fame-2ECC71?style=for-the-badge" alt="Bureau of Land Management Hall of Fame" />
+  <img src="https://img.shields.io/badge/🏆%20Dell%20Technologies-Hall%20of%20Fame-007DB8?style=for-the-badge" alt="Dell Technologies Hall of Fame" />
+</p>
+
+<p align="center">
+  <strong>Responsible Disclosure · Security Research · Vulnerability Reporting</strong>
+</p>
+
+---
+
+## 💻 Development
+
+Alongside security research, I build full-stack applications with a focus on **clean architecture, performance, scalability, and secure design**.
+
+### Technologies
+
+<div style="display:flex; flex-wrap:wrap; justify-content: space-around;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32" height="32" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32" height="32" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32" height="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="32" height="32" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32" height="32" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32" height="32" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="32" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="32" height="32" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32" height="32" alt="Docker" />
 </div>
 
 ---
 
+## 🔬 Security + Engineering
 
-###
+I enjoy working at the intersection of **software engineering and offensive security**.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/julien-zgh/julien-zgh/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/julien-zgh/julien-zgh/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/julien-zgh/julien-zgh/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
----
-
-<div style="display: flex; justify-content: center; gap: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=julien-zgh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />   <img src="https://github-readme-streak-stats.herokuapp.com/?user=julien-zgh&locale=en&theme=dracula" height="150" alt="stats graph"  />
-</div>
+```text
+                    SECURITY RESEARCH
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+        Recon          Web/API           Exploitation
+          │             Security              │
+          │                │                  │
+          └────────────────┼──────────────────┘
+                           │
+                    Vulnerability
+                       Analysis
+                           │
+                           ▼
+                 Responsible Disclosure
+                           │
+                           ▼
+                 Secure Software Design
