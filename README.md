@@ -18,9 +18,6 @@
   <a href="https://tryhackme.com/p/JZBOSS">
     <img src="https://img.shields.io/badge/TryHackMe-88CC14?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
-  <a href="https://www.instagram.com/builtbyjulien_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
   <a href="mailto:julien.zghendi@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email" />
   </a>
@@ -67,8 +64,29 @@ I am particularly interested in **web application security, vulnerability resear
 My security research has resulted in recognition from organizations through their responsible disclosure and vulnerability recognition programs.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏆%20Bureau%20of%20Land%20Management-Hall%20of%20Fame-2ECC71?style=for-the-badge" alt="Bureau of Land Management Hall of Fame" />
-  <img src="https://img.shields.io/badge/🏆%20Dell%20Technologies-Hall%20of%20Fame-007DB8?style=for-the-badge" alt="Dell Technologies Hall of Fame" />
+  <a href="https://www.nasa.gov/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="140" alt="NASA" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.blm.gov/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_of_the_United_States_Bureau_of_Land_Management.svg" width="120" alt="Bureau of Land Management" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.dell.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Dell_Logo.svg" width="140" alt="Dell Technologies" />
+  </a>
+</p>
+
+<p align="center">
+    <strong>🏆 NASA VDP Hall of Fame · 🏆 Bureau of Land Management VDP Hall of Fame · 🏆 Dell Technologies Hall of Fame</strong>
+</p>
+
+<p align="center">
+  <img width="550" height="999" alt="nasa-lor" src="https://github.com/user-attachments/assets/4dd22d72-0db6-4d96-8773-cd9cf0a914d4" />
+</p>
+
+<p align="center">
+  <strong>NASA VDP Letter of Recognition</strong>
 </p>
 
 <p align="center">
