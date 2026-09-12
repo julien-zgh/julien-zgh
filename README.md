@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hey, I'm Julien Zghendi</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Security Researcher · Bug Bounty Hunter</strong>
+  <strong>Security Researcher · Bug Bounty Hunter</strong>
 </p>
 
 <p align="center">
-  Building secure, scalable web applications while researching real-world vulnerabilities across modern web infrastructure.
+  Researching real-world vulnerabilities across modern web applications and infrastructure, with a focus on vulnerability discovery, exploitation, and responsible disclosure.
 </p>
 
 <p align="center">
