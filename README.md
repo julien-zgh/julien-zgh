@@ -68,6 +68,10 @@ My security research has resulted in recognition from organizations through thei
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" width="140" alt="NASA" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.bendigobank.com.au/">
+    <img src="https://marketmatters.com.au/wp-content/uploads/2021/02/bendigo-bank-logo.png" width="140" alt="Bendigo Bank Australia" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.blm.gov/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Logo_of_the_United_States_Bureau_of_Land_Management.svg" width="120" alt="Bureau of Land Management" />
   </a>
